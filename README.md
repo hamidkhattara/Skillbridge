@@ -70,3 +70,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 79155f8873345f51a0bd8e80f1402dfa74ad0658
 ## Contact Us
 For any inquiries, please reach out to the development team at support@skillbridge.test
+
+## About SkillBridge
+
+        This project is an application for booking sessions with coaches.
